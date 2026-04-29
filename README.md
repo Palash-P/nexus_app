@@ -32,8 +32,7 @@ Built as a full-stack solo project to demonstrate production Flutter development
 
 | Login | Home | Documents | Chat |
 |-------|------|-----------|------|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Documents](screenshots/documents.png) | ![Chat](screenshots/chat.png) |
-
+| ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) | ![Documents](assets/screenshots/documents.png) | ![Chat](assets/screenshots/chat.png) |
 ---
 
 ## Features
