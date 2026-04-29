@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon/icon.png" alt="Nexus Logo" width="100" height="100" style="border-radius: 22px"/>
+<img width="100" height="100" alt="icon" src="https://github.com/user-attachments/assets/c60890dd-ff4c-4b7f-9b7e-d347724f893b" />
 
 # Nexus — AI Knowledge Base
 
@@ -28,12 +28,9 @@ Built as a full-stack solo project to demonstrate production Flutter development
 
 ## Screenshots
 
-> *(Add screenshots here after recording — login, home, documents, chat)*
-
 | Login | Home | Documents | Chat |
 |-------|------|-----------|------|
-| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg) | ![Documents](screenshots/documents.jpeg) | ![Chat](screenshots/chat.jpeg) |
----
+| <img width="200" alt="Login" src="https://github.com/user-attachments/assets/158ee4bf-b375-4b12-b653-22399800e4bf"/> | <img width="200" alt="Home" src="https://github.com/user-attachments/assets/21735347-60cc-4f4b-9faf-9abce523cede"/> | <img width="200" alt="Documents" src="https://github.com/user-attachments/assets/1e708494-bac5-4c17-ae65-31e7b5ad60e2"/> | <img width="200" alt="Chat" src="https://github.com/user-attachments/assets/19a965ee-f1e3-45e6-9bb0-2f399a27491e"/> |
 
 ## Features
 
