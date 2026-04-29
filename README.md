@@ -32,7 +32,7 @@ Built as a full-stack solo project to demonstrate production Flutter development
 
 | Login | Home | Documents | Chat |
 |-------|------|-----------|------|
-| ![Login](nexus_app/assets/screenshots/login.png) | ![Home](nexus_app/assets/screenshots/home.png) | ![Documents](nexus_app/assets/screenshots/documents.png) | ![Chat](nexus_app/assets/screenshots/chat.png) |
+| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Documents](screenshots/documents.png) | ![Chat](screenshots/chat.png) |
 ---
 
 ## Features
