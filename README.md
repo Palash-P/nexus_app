@@ -223,10 +223,8 @@ Built by **Palash** — Flutter & Django developer based in Pune, India.
 2 years of production experience shipping real apps — payment integrations (Razorpay across 3 apps), Google Maps SDK, B2B marketplace, fintech. Currently building at the intersection of mobile and AI.
 
 - **Portfolio:** [palash-p.github.io](https://palash-p.github.io)
-- **LinkedIn:** [linkedin.com/in/palash-p](https://linkedin.com/in/palash-p)
-- **Email:** your@email.com
-
-> Open to Flutter roles in Pune (on-site or hybrid) and remote freelance projects worldwide.
+- **LinkedIn:** [linkedin.com/in/palash-p](https://www.linkedin.com/in/palash-pingale-72418329b/)
+- **Email:** palashpingale135@email.com
 
 ---
 
